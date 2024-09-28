@@ -1,6 +1,6 @@
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Nazuna%5E_%5E)](https://git.io/typing-svg)
-</p>
+
 
 ## About Me & 我？
 我不会写代码，但是我的ChatGPT会^^
