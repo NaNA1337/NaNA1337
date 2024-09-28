@@ -21,10 +21,10 @@
 <!-- Add more as per your expertise -->
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaNA1337&show_icons=true&theme=radical)
 
 <!-- Optional: Language stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaNA1337&layout=compact&theme=radical)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
@@ -33,7 +33,7 @@
 
 ## Recent Activity
 <!-- Add dynamic GitHub activity feed -->
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=NaNA1337&theme=github)
 
 ## Blogs & Articles
 - [Title of Blog Post 1](https://link-to-your-blog.com)
@@ -41,7 +41,7 @@
 
 ## Support Me
 If you like my work and want to support me, feel free to buy me a coffee!  
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-profile)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nana1337)
 
 ## Acknowledgements & Licenses
 Special thanks to everyone who has supported me on my journey, especially the wonderful open-source community.  
