@@ -1,4 +1,4 @@
-# <p align="center">
+#<p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Nazuna%5E_%5E" alt="typing-svg">
 </p>
 
