@@ -16,7 +16,3 @@
 
 ## Recent Activity (更新概率0%)
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=NaNA1337&theme=github)
-
-## Support Me & 我是网络乞丐
-给我买杯咖啡吧^^ 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nana1337)
